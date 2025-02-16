@@ -41,9 +41,9 @@ To run this project locally, follow these steps:
    ```
 4. **Start the Development Server:**
    ```bash
-   yarn start
+   yarn dev -- --host
    ```
-   The application will be available at [http://localhost:3000](http://localhost:3000).
+   The application will be available at [http://localhost:5173](http://localhost:5173).
 
 ## Usage
 
