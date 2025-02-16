@@ -1,5 +1,5 @@
 
-```md
+
 # 🌦 Noob Weather – A Practice Weather App
 
 [Live Demo 🚀](https://noob-weatherapp-react.vercel.app/)
